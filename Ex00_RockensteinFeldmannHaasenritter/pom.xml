@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.unistuttgart.dsass2024.ex00</groupId>
-	<artifactId>Ex00_LastNamesOfMembers_project</artifactId>
+	<artifactId>Ex00_RockensteinFeldmannHaasenritter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Ex00_LastNamesOfMembers_project</name>
+	<name>Ex00_RockensteinFeldmannHaasenritter</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
